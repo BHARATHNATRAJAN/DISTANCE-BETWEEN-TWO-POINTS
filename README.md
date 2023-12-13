@@ -25,7 +25,8 @@ dis=math.sqrt((pow((x2-x1),2)+pow((y2-y1),2)))
 print(round(dis,2))
 ```
 ### OUTPUT:
-![output](/output.png)
+![output](https://github.com/BHARATHNATRAJAN/DISTANCE-BETWEEN-TWO-POINTS/assets/147473529/465d4573-92d7-4ab6-bc4f-1ebb9c19318d)
+
 
 ### RESULT:
 the output was verified successfully
